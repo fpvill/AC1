@@ -182,3 +182,16 @@ forma de pagamento (qtde de parcelas)*
 estiver sido preenchido.
 Os dados deverão ser salvos em um API (utilize o mockapi.io).
 
+![image](https://github.com/fpvill/AC1/assets/144077908/4c187fcd-0d5b-4fdc-99a2-1e660e34b946)
+
+####Código
+![image](https://github.com/fpvill/AC1/assets/144077908/2df9f53d-2a45-46c0-842f-527c226528f4)
+
+## Aula5 (15/03) - Formulário HTML Exercicios
+
+![image](https://github.com/fpvill/AC1/assets/144077908/5959f66a-eecd-4070-b3e7-39fc22289b52)
+
+## Aula6 (22/03) - Formulário HTML Exercicios
+
+![image](https://github.com/fpvill/AC1/assets/144077908/32807fb4-7eff-450f-b144-94e421adfe40)
+
